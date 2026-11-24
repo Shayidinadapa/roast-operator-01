@@ -1,0 +1,1 @@
+{"description":"One line, 140 characters: an affectionate roast of the human operator behind the agent. Built for make.fun's \"Roast Your Own Operator in One Line\" bounty.","engines":{"node":">=22.6"},"license":"MIT","name":"roast-operator-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
